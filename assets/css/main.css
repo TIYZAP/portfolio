@@ -247,6 +247,7 @@ a:after {
 }
 
 #footwrap i {
+  font-size: 35px;
 	padding-right: 8px;
 	color: #1abc9c;
 }
