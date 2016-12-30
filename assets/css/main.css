@@ -185,6 +185,12 @@ a:after {
 	color: white;
 }
 
+#headerwrap i {
+  font-size: 70px;
+  padding-right: 16px;
+  color: white;
+}
+
 /* Intnro Wrap */
 
 #intro {
