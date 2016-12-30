@@ -247,9 +247,15 @@ a:after {
 }
 
 #footwrap i {
-  font-size: 100px;
+  font-size: 70px;
 	padding-right: 8px;
 	color: #1abc9c;
+}
+
+#chirp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 /* Copyright Wrap */
